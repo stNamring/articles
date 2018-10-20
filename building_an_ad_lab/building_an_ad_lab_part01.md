@@ -1,5 +1,5 @@
 ## Who is this for?
-This guide is written for people who are fairly comfortable with Windows (any version) but haven't necessarily worked with labs, virtualization software or Active Directory. You should be comfortable doing basic Windows stuff (renaming a computer, changing IP addresses, etc). Through this series of posts, we'll cover:
+This guide is written for people who are fairly comfortable with Windows (any version) but haven't necessarily worked with labs, virtualization software or Active Directory. You should be comfortable doing basic Windows stuff (renaming a computer, changing IP addresses, etc). Through these series of posts, we'll cover:
 * Setting up Virtualbox to virtualize our lab
 * Setting up a firewall/router to keep our lab separate from the rest of network but still allow it to access the internet
 * Setting up a basic Active Directory environment
